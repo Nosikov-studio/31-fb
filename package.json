@@ -1,0 +1,22 @@
+{
+  "name": "31-firebase",
+  "version": "1.0.0",
+  "description": "\"# 31-fb\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nosikov-studio/31-fb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nosikov-studio/31-fb/issues"
+  },
+  "homepage": "https://github.com/Nosikov-studio/31-fb#readme",
+  "dependencies": {
+    "firebase": "^10.12.2"
+  }
+}
